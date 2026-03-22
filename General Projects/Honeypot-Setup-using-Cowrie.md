@@ -20,11 +20,17 @@ Once the VM is set up and running, install the required dependencies for Cowrie.
 **1.** Update your system and install the necessary packages:
 ```
 sudo apt-get update
-sudo apt-get upgrade
-sudo apt-get install python3 python3-venv git
+```
+
+- <img width="666" height="482" alt="image" src="https://github.com/user-attachments/assets/c7ea95ed-6f05-43f4-8bd5-a8413ef8fed3" />
 
 ```
-- <img width="666" height="482" alt="image" src="https://github.com/user-attachments/assets/c7ea95ed-6f05-43f4-8bd5-a8413ef8fed3" />
+sudo apt-get upgrade
+```
 
 - <img width="659" height="281" alt="image" src="https://github.com/user-attachments/assets/034e8d4a-5581-43b5-b147-2ff43c34ebce" />
 
+```
+sudo apt-get install python3 python3-venv git
+```
+- 
